@@ -5,7 +5,7 @@
 const Stack = require('../lib/Stack')
 
 function removeDuplicates(stack) {
-  // your code here
+  let tempStack = new Stack()
 }
 
 // Create stack
